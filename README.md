@@ -22,7 +22,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 ### Links
 
 - Solution URL: [https://github.com/Roman-oryol/article-preview-component](https://github.com/Roman-oryol/article-preview-component)
-- Live Site URL: [https://ro-meet-landing-page.netlify.app/](https://ro-meet-landing-page.netlify.app/)
+- Live Site URL: [https://ro-article-preview-component.netlify.app/](https://ro-article-preview-component.netlify.app/)
 
 ## My process
 
@@ -33,13 +33,11 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 - CSS Grid
 - CSS Flex
 - Mobile-first workflow
-- AOS library for animation
-- [React](https://reactjs.org/) - JS library
-- [Styled Components](https://styled-components.com/) - For styles
+- JavaScript
 
 ### Continued development
 
-React development
+React and JS development
 
 ## Author
 
