@@ -21,7 +21,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [https://github.com/Roman-oryol/meet-landing-page](https://github.com/Roman-oryol/meet-landing-page)
+- Solution URL: [https://github.com/Roman-oryol/article-preview-component](https://github.com/Roman-oryol/article-preview-component)
 - Live Site URL: [https://ro-meet-landing-page.netlify.app/](https://ro-meet-landing-page.netlify.app/)
 
 ## My process
